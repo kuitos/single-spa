@@ -41,7 +41,9 @@
   ],
   "author": "Joel Denning",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "custom-event": "^1.0.1"
+  },
   "devDependencies": {
     "@babel/cli": "^7.7.0",
     "@babel/core": "^7.5.5",
@@ -51,7 +53,6 @@
     "babel-jest": "^24.9.0",
     "babel-loader": "^8.0.4",
     "babel-plugin-dynamic-import-node": "^2.3.0",
-    "custom-event": "^1.0.1",
     "eslint": "6.3.0",
     "eslint-config-canopy": "2.3.0",
     "husky": "^3.0.5",
